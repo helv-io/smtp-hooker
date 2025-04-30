@@ -16,7 +16,7 @@ Welcome to **smtp-hooker**—a Node.js app that runs an SMTP server with the sec
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) (v14 or later) or
-- [Docker](https://www.docker.com/) (optional, for container fans)
+- [Docker](https://www.docker.com/) (for container fans)
 - A webhook URL to catch the email chaos
 
 ### Installation
