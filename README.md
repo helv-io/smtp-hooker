@@ -43,7 +43,7 @@ Set these environment variables to tell the server what to do. Use a `.env` file
 
 | Variable      | Description                                           | Default |
 |---------------|-------------------------------------------------------|---------|
-| `PORT`        | The port your SMTP server listens on.                 | `25`    |
+| `PORT`        | The port your SMTP server listens on.                 | `2525`  |
 | `WEBHOOK_URL` | Where to send the emails (required, no default).      | N/A     |
 
 **Example `.env`**:
