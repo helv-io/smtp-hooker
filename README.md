@@ -1,4 +1,4 @@
-# smtp-hooker - The Email Server That Accepts Everything (Yes, Everything!)
+# smtp-hooker - The Email Server That Accepts Everything
 
 Welcome to **smtp-hooker**—a Node.js app that runs an SMTP server with the security of a paper umbrella. It takes any email sent its way (no authentication, no encryption, no questions asked) and forwards it to a webhook URL you choose. Great for enabling dumb smart-devices, or tempting your fate. 
 
